@@ -396,8 +396,8 @@ msgstr "Beschreibung"
 
 #: templates/pdf/Simple/invoice.php:80
 #: templates/pdf/Simple/packing-slip.php:54
-msgid "SKU:"
-msgstr "Art.-Nr.:"
+msgid "SKU"
+msgstr "Art.-Nr."
 
 #: templates/pdf/Simple/invoice.php:81
 #: templates/pdf/Simple/packing-slip.php:55
