@@ -356,7 +356,7 @@ msgstr "Packliste"
 
 #: templates/pdf/Simple/invoice.php:37
 msgid "Invoice Date:"
-msgstr "Rechnungsdatum"
+msgstr "Rechnungsdatum:"
 
 #: templates/pdf/Simple/invoice.php:40
 #: templates/pdf/Simple/packing-slip.php:30
@@ -397,7 +397,7 @@ msgstr "Beschreibung"
 #: templates/pdf/Simple/invoice.php:80
 #: templates/pdf/Simple/packing-slip.php:54
 msgid "SKU:"
-msgstr "SKU:"
+msgstr "Art.-Nr.:"
 
 #: templates/pdf/Simple/invoice.php:81
 #: templates/pdf/Simple/packing-slip.php:55
@@ -443,11 +443,11 @@ msgstr "Rabatt"
 
 #: woocommerce-pdf-invoices-packingslips.php:455
 msgid "VAT"
-msgstr "MwSt"
+msgstr "MwSt."
 
 #: woocommerce-pdf-invoices-packingslips.php:487
 msgid "Total ex. VAT"
-msgstr "Gesamtsumme ohne MwSt"
+msgstr "Gesamtsumme ohne MwSt."
 
 #: woocommerce-pdf-invoices-packingslips.php:490
 msgid "Total"
